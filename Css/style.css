@@ -29,27 +29,27 @@ footer {
 }
 
 .a {
-  background-image: url('../Imgs/tom2.png');
+  background-image: url("Imgs/tom2.png");
 }
 
 .s {
-  background-image: url('../Imgs/tom3.png');
+  background-image: url("../Imgs/tom3.png");
 }
 
 .d {
-  background-image: url('../Imgs/tom4.png');
+  background-image: url("../Imgs/tom4.png");
 }
 
 .j {
-  background-image: url('../Imgs/snare.png');
+  background-image: url("../Imgs/snare.png");
 }
 
 .k {
-  background-image: url('../Imgs/crash.png');
+  background-image: url("../Imgs/crash.png");
 }
 
 .l {
-  background-image: url('../Imgs/kick.png');
+  background-image: url("../Imgs/kick.png");
 }
 
 .drum {
