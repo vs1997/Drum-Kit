@@ -25,31 +25,31 @@ footer {
   font-family: sans-serif;
 }
 .w {
-  background-image: url('Imgs/tom1.png');
+  background-image: url('Drum-Kit/Imgs/tom1.png');
 }
 
 .a {
-  background-image: url('Imgs/tom2.png');
+  background-image: url('Drum-Kit/Imgs/tom2.png');
 }
 
 .s {
-  background-image: url('Imgs/tom3.png');
+  background-image: url('Drum-Kit/Imgs/tom3.png');
 }
 
 .d {
-  background-image: url('Imgs/tom4.png');
+  background-image: url('Drum-Kit/Imgs/tom4.png');
 }
 
 .j {
-  background-image: url('Imgs/snare.png');
+  background-image: url('Drum-Kit/Imgs/snare.png');
 }
 
 .k {
-  background-image: url('Imgs/crash.png');
+  background-image: url('Drum-Kit/Imgs/crash.png');
 }
 
 .l {
-  background-image: url('Imgs/kick.png');
+  background-image: url('Drum-Kit/Imgs/kick.png');
 }
 
 .drum {
