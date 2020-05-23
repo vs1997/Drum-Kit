@@ -25,7 +25,7 @@ footer {
   font-family: sans-serif;
 }
 .w {
-  background-image: url('Drum-Kit/Imgs/tom1.png');
+  background-image: url("../Imgs/tom1.png");
 }
 
 .a {
